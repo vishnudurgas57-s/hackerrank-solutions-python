@@ -1,0 +1,6 @@
+a = int(input()) # example a = 3
+b = int(input()) #example b = 4 
+print(a * b)
+print(a+b)
+print(a-b)
+print(a/b)
